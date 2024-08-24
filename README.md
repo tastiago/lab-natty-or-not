@@ -1,51 +1,21 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA no Brasil: Transformando o Futuro
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Produzi um vídeo de 60 segundos, ideal para o formato de shorts no YouTube ou outras redes sociais. Nesse vídeo, exploro como a inteligência artificial (IA) está transformando o futuro do Brasil, atuando como uma ferramenta de apoio em diversas áreas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **[Microsoft Clipchamp](https://clipchamp.com/pt-br)** para "text to speech";
+- **[Suno](https://suno.com/)** para criação de trilha sonora de fundo;
+- **[Microsoft Copilot](https://copilot.microsoft.com/)** para gerar as imagens;
+- **[Adobe Premiere Pro](https://www.adobe.com/br/products/premiere)** para edição do vídeo.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei ao Copilot que formatasse um roteiro destacando as principais áreas em que a inteligência artificial (IA) pode atuar. A partir desse roteiro, coletei e organizei os arquivos necessários, além de ajustar o conteúdo para torná-lo mais amigável.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[LINK PARA ASSISTIR O VÍDEO AQUI](https://www.youtube.com/shorts/qsefr2iPwMY)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A inteligência artificial já é uma realidade na minha área de atuação, o audiovisual. No meu caso, ela otimizou diversos aspectos do meu trabalho, incluindo a criação de legendas, vozes sintéticas, imagens e, mais recentemente, até vídeos. Acredito que há muito a ser discutido em relação à ética no uso das IAs para o audiovisual e o cinema. No entanto, para mim, essa tecnologia tem sido uma excelente ferramenta de auxílio e otimização do trabalho. 
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
