@@ -15,7 +15,7 @@ Solicitei ao Copilot que formatasse um roteiro destacando as principais áreas e
 ## 🚀 Resultados
 [LINK PARA ASSISTIR O VÍDEO AQUI](https://www.youtube.com/shorts/qsefr2iPwMY)
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 A inteligência artificial já é uma realidade na minha área de atuação, o audiovisual. No meu caso, ela otimizou diversos aspectos do meu trabalho, incluindo a criação de legendas, vozes sintéticas, imagens e, mais recentemente, até vídeos. Acredito que há muito a ser discutido em relação à ética no uso das IAs para o audiovisual e o cinema. No entanto, para mim, essa tecnologia tem sido uma excelente ferramenta de auxílio e otimização do trabalho. 
 ```
 
